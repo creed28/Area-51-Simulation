@@ -31,15 +31,13 @@ clearance levels.
 - Agents perform tasks on different floors based on their security clearance.
 - Agents leave the facility.
 
-# How to Run
-
-## To run the simulation:
+# To run the simulation:
 
 - Compile and execute the Area51_Simulation project.
 - The simulation will start automatically.
 
 
-## Notes
+# Notes
 
 - The simulation is designed to provide a simplified representation of agent movement within a secured facility.
 - The behavior of the elevator and agents is determined by predefined rules and random events.
